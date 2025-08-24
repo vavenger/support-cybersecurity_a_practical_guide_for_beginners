@@ -5,7 +5,7 @@
 SBクリエイティブの書籍紹介ページ:https://www.sbcr.jp/product/4815634254/
 
 <p align="center">
-  <img src="./figure/book-cover.jpg" alt="書籍表紙" width="400">
+  <img src="./figure/book-cover.png" alt="書籍表紙" width="400">
 </p>
 
 ## 正誤表
